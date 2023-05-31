@@ -1,2 +1,2 @@
 # YaraDB
-The largest collection of Yara rules on Github. All sourced from https://github.com/InQuest/awesome-yara, packed into one repo.
+The largest collection of Yara rules on Github. All sourced from https://github.com/InQuest/awesome-yara, packed into one repo. This collection has been parsed in two different way in order to remove duplicates, and to ensure the overall preservation of the yara rules themselves. Each file has been hashed prior to filtering in order to accurately remove duplicates. Each rule in each file has also been parsed by hashing each rule, in a greater effort to remove duplicates.
