@@ -1,6 +1,6 @@
 <!-- Replace 'Your-Logo-URL' with the URL of your project's logo -->
 <p align="center">
-  <img src="" alt="YaraDB Logo" width="150">
+  <img src="https://i.imgur.com/5oLN90s.png" alt="YaraDB Logo" width="150">
 </p>
 
 # YaraDB
