@@ -30,3 +30,14 @@ Included in this repository is also a precompiled version of YaraDB for improved
 
 
 Feel free to explore, contribute, and make the most of YaraDB!
+
+<a name="Contributors"></a>
+## Contributors
+
+<p align="center">
+    <a href="https://github.com/Th3Tr1ckst3r"><img src="https://avatars.githubusercontent.com/u/21149460?v=4" width=75 height=75></a>
+</p>
+
+
+I welcome you to contribute code to YaraDB & Yara rules, and thank you for your contributions, feedback, and support.
+
